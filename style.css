@@ -1,11 +1,14 @@
-body {
-    background-image: url(envoie-ton-fiak.jfif);
-    background-size: 250px;
-}
 .fiak{
     position: absolute;
-    top: 50%; left: 50%;
+    top: 25%; left: 50%;
     transform: translate(-50%, -50%);
     font-size: 80px;
-    color: red;
+    color: black;
+    font-weight: 500;
+}
+img {
+    position: absolute;
+    top: 60%; left: 50%;
+    transform: translate(-50%, -50%);
+    height: 300px;
 }
