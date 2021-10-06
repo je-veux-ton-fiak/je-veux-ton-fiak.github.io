@@ -1,0 +1,26 @@
+body{
+   background-image: url(envoie-ton-fiak.jfif);
+}
+.fiak{
+    position: absolute;
+    top: 50%; left: 50%;
+    transform: translate(-50%, -50%);
+}
+.pfiak{
+    font-size: 80px;
+    color: black;
+    font-weight: 500;
+    background-color: white;
+    padding: 10px;
+    border-radius: 20px;
+}
+.email{
+    position: absolute;
+    top: 95%; left: 80%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(196, 196, 196, 0.699);
+    width: 230px;
+}
+.mail{
+    color: blue;
+}
