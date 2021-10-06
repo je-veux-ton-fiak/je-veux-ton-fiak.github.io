@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+</html>
+<html>
+    <head>
+        <title>Je veux ton fiak</title>
+        <meta charset="UTF-8"/>
+        <link rel="stylesheet" href="../static/styles/fiak.css"> 
+    </head>
+    <body>
+        <div class="fiak">
+            <p class="pfiak">Tu veux mon fiak ???</p>
+        </div>
+    </body> 
+</html>
