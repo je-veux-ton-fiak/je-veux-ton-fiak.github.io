@@ -1,0 +1,17 @@
+body{
+    background-image: url(../images/jai-pas-le-03f84d2f3b.jpg);
+    background-size: 200px;
+}
+.fiak{
+    position: absolute;
+    top: 50%; left: 50%;
+    transform: translate(-50%, -50%);
+}
+.pfiak{
+    font-size: 80px;
+    color: black;
+    font-weight: 500;
+    background-color: white;
+    padding: 10px;
+    border-radius: 20px;
+}

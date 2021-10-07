@@ -1,25 +1,30 @@
 :root {
-    --darkblue: #00008b;
-    --blue: #0000ff;
-    --darkred: #8b0000;
-    --red: #ff0000;
-    --white: #ffffff;
-    --blak: #000000;
-    --background: rgb(223, 223, 223);
+  --darkblue: #00008b;
+  --blue: #0000ff;
+  --darkred: #8b0000;
+  --red: #ff0000;
+  --white: #ffffff;
+  --blak: #000000;
+  --background: rgb(223, 223, 223);
+}
+
+body{
+  font-family: "Open Sans";
+  src: url(../fonts/Birthstone-Regular.ttf) ;
 }
 
 .grand-titre {
-    display: flex;
-    cursor: pointer;
-    border-bottom-style: solid;
-    border-bottom-width: 2px;
-    border-bottom-color: #000000b9;
-    border-radius: 3px;
-    padding: 0px;
-    padding-left: 10px;
-    margin: 50px 3% 0px 3%;
-    justify-content: space-between;
-    align-items: center;
+  display: flex;
+  cursor: pointer;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #000000b9;
+  border-radius: 3px;
+  padding: 0px;
+  padding-left: 10px;
+  margin: 50px 3% 0px 3%;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .grand-titre-p {
