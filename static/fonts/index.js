@@ -3,7 +3,7 @@ let volets = document.getElementsByClassName("sous-item");
 let fleches = document.getElementsByClassName("fleche");
 
 function ouvreFermeVolet(element) {
-  element.classList.toggle("open");
+  element.classList.toggle("close");
 }
 
 // Activation et programmation des clics
