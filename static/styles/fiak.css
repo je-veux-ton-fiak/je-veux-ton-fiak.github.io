@@ -1,5 +1,11 @@
-body{
-    background-image: url(../images/envoie-ton-fiak.jfif);
+.donne-fiak{
+    background: url(../images/donne-fiak.jpg);
+}
+.envoie-fiak{
+    background: url(../images/envoie-ton-fiak.jfif);
+}
+.jaime-fiak{
+    background: url(../images/jaime-fiak.jpg);
 }
 .fiak{
     position: absolute;

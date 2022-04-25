@@ -9,8 +9,8 @@
 }
 
 body{
-  font-family: "Close Sans";
-  src: url(../fonts/Birthstone-Regular.ttf) ;
+  font-family: "Open Sans";
+  src: url(../fonts/Birthstone-Regular.ttf) format("woff2");
 }
 
 .grand-titre {
@@ -49,7 +49,7 @@ body{
   transition-duration: 0.5s;
 }
 
-.sous-item.close {
+.sous-item.open {
   max-height: 2000px;
   transition-duration: 0.5s;
 }
@@ -64,11 +64,11 @@ body{
   transform: rotateZ(45deg);
   transition-duration: 0.4s;
 }
-.fleche.close {
+.fleche.open {
   transform: rotateZ(-45deg);
 }
 
 a{
-    text-decoration: none;
-    color: black;
+  text-decoration: none;
+   color: black;
 }
