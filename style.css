@@ -1,0 +1,21 @@
+body {
+    background-image: url(fiak.jpg);
+}
+
+.fiak {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.pfiak {
+    font-size: 80px;
+    color: black;
+    font-weight: 500;
+    background-color: white;
+    padding: 10px;
+    border-radius: 20px;
+    text-align: center;
+    width: 900px;
+}
